@@ -16,16 +16,16 @@
   <a href="https://github.com/trhacknon/Parshu/issues?q=is%3Aissue+is%3Aclosed">
       <img src="https://img.shields.io/github/issues-closed-raw/trhacknon/Parshu?color=dark-green&label=issues%20fixed">
   </a>
-  <a href="https://travis-ci.com/trhacknon/Parshu">
+  <a href="https://travis-ci.com/trhacknon/findit">
       <img src="https://img.shields.io/travis/com/trhacknon/Parshu.svg?color=dark-green&label=tests">
   </a>
 </p>
 
-<p align="center"><img src=".github/static/usage.png" alt="Parshu usage"></p>
+<p align="center"><img src=".github/static/usage.png" alt="findit usage"></p>
 
 ---
 
-**Parshu** uses regex to filter out the custom results. Remembering every regex or writing regexes for a task which you do daily is not easy, so **parshu** will help you to automate the task.
+**findit** uses regex to filter out the custom results. Remembering every regex or writing regexes for a task which you do daily is not easy, so **findit** will help you to automate the task.
 
 _Inspired from [tomnomnom's gf](https://github.com/tomnomnom/gf) tool_
 
