@@ -5,10 +5,10 @@
 <h4 align="center"><b>Filter URLs to save your time using regex</b></h4><br>
 
 <p align="center">
-  <a href="https://github.com/trhacknon/findit/releases">
+  <a href="https://github.com/trhacknon/findit/releases/download/v1.0/findit">
     <img src="https://img.shields.io/github/release/trhacknon/Parshu.svg?label=version">
   </a>
-<a href="https://twitter.com//"><img src="https://img.shields.io/badge/twitter-%40R0X4R-blue.svg"></a>
+<a href="https://twitter.com//"><img src="https://img.shields.io/badge/twitter-%40trhacknon-blue.svg"></a>
 <a href="https://github.com/trhacknon/Garud/issues"><img src="https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat"></a>
 <a href="https://github.com/trhacknon/Parshu/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-yellow.svg"></a>
 <a href="https://github.com/trhacknon?tab=followers"><img src="https://img.shields.io/badge/github-%40trhacknon-orange"></a>
