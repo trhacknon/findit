@@ -21,7 +21,7 @@
   </a>
 </p>
 
-<p align="center"><img src=".github/static/usage.png" alt="findit usage"></p>
+<p align="center"><img src=".github/static/Screenshot_2022-12-10-22-10-51-203-edit_com.termux.jpg" alt="findit usage"></p>
 
 ---
 
