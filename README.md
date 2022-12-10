@@ -8,7 +8,6 @@
   <a href="https://github.com/trhacknon/findit/releases">
     <img src="https://img.shields.io/github/release/trhacknon/Parshu.svg?label=version">
   </a>
-  <a href="#"><img src="https://madewithlove.org.in/badge.svg"></a>
 <a href="https://twitter.com//"><img src="https://img.shields.io/badge/twitter-%40R0X4R-blue.svg"></a>
 <a href="https://github.com/trhacknon/Garud/issues"><img src="https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat"></a>
 <a href="https://github.com/trhacknon/Parshu/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-yellow.svg"></a>
