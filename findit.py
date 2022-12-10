@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Author: Eshan Singh (R0X4R)
+Author: trhacknon
 Version: 1.0.0
 """
 
@@ -11,7 +11,7 @@ from urllib.parse import urlparse
 from sys import stdin, stdout, exit
 
 #@> PROCESSING COMMAND LINE ARGUMENTS
-parser = argparse.ArgumentParser(epilog="\tExample:\nwaybackurls sub.domain.tld | parshu")
+parser = argparse.ArgumentParser(epilog="\tExample:\nwaybackurls sub.domain.tld | python3 findit.py")
 parser._optionals.title = "OPTIONS"
 
 #@> OPTIONS
