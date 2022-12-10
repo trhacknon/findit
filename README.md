@@ -43,7 +43,7 @@ $ wget -O parshu https://raw.githubusercontent.com/trhacknon/findit/main/findit.
 
 ### Usage
 
-<p align="center"><img src=".github/static/usage-2.png" alt="findit usage"></p>
+<p align="center"><img src=".github/static/Screenshot_2022-12-10-22-14-57-712-edit_com.termux.jpg" alt="findit usage"></p>
 
 + **For `linux`, `unix` and `debian` based systems**
 
