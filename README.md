@@ -37,7 +37,7 @@ _Inspired from [tomnomnom's gf](https://github.com/tomnomnom/gf) tool_
 
 
 ```console
-$ wget -O parshu https://raw.githubusercontent.com/trhacknon/findit/main/findit.py -q && chmod +x findit && mv findit /usr/bin/
+$ wget -O findit https://raw.githubusercontent.com/trhacknon/findit/main/findit.py -q && chmod +x findit && mv findit /usr/bin/
 ```
 
 ### Usage
